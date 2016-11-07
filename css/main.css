@@ -1,0 +1,36 @@
+div {   
+    
+	
+	padding:20px 10px;
+	display: block;
+    height: 150px; 
+    width: 200px;
+    margin-left: 42%;
+    
+
+}
+.re{
+	display: block;
+}
+
+h1{
+    color: darkorchid;
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+    
+}
+p{
+    color: green;
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+    
+}
+a {  text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    color: violet;
+    display: block;
+    
+    }
